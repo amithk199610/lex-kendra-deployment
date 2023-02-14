@@ -1,0 +1,7 @@
+// Replace the content in <>
+// Briefly describe the software. Use consistent and clear branding. 
+// Include the benefits of using the software on AWS, and provide details on usage scenarios.
+
+This Quick Start lets third-party products integrate with Amazon Lex and Amazon Kendra to provide answers to user questions that originate from a document search interface.
+
+This Quick Start creates an Amazon Lex chatbot with an Amazon Kendra index. The index is linked to an Amazon S3 bucket data repository, which contains a sample FAQ document for testing. The Amazon Lex chatbot is connected to the Amazon Kendra index via the Amazon Kendra search intent.  
